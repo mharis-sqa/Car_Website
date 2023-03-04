@@ -24,7 +24,6 @@ window.onscroll = () =>{
   }else{
     document.querySelector('.header').classList.remove('active');
   };
-
 };
 
 document.querySelector('.home').onmousemove = (e) =>{
